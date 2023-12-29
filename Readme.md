@@ -1,12 +1,4 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/257868487/19.2.7%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T882481)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 # GridView - How to use RichEdit in EditForm to edit RTF data
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/257868487/)**
-<!-- run online end -->
 
 This example shows the approach from the following thread in MVC: [How to use ASPxRichEdit to edit RTF data in ASPxGridView's EditForm](https://supportcenter.devexpress.com/ticket/details/t260978/how-to-use-aspxrichedit-to-edit-rtf-data-in-aspxgridview-s-editform).
 
